@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Aditya!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for computer programming. Actively exploring software development technologies and constantly seeking opportunities to expand my programming knowledge./h3>
 
 <br/>
 
