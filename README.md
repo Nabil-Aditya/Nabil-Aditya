@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nabil Aditya 👋  
+A cybersecurity and IT student at Politeknik Negeri Batam.
 
-<!--
-**Nabil-Aditya/Nabil-Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- 🔭 Currently working on **Aplikasi Web Eco Enzim**.
+- 🌱 Learning **Cybersecurity & Web Development**.
+- 👯 Open to collaboration in **Open Source Projects**.
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/nabil) | [GitHub](https://github.com/Nabil-Aditya)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nabil-Aditya&show_icons=true&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil-Aditya&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Aditya&layout=compact&theme=dark">
+</p>
