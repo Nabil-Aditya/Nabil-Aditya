@@ -9,7 +9,7 @@ A cybersecurity and IT student at Politeknik Negeri Batam.
 
 ### 🛠️ Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,js,java,c+,git,github" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,js,java,cpp,git,github" />
 </p>
 
 ### 📊 GitHub Stats:
