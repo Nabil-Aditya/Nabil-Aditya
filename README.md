@@ -40,21 +40,27 @@
         <li><b>Software Development Team Lead</b> - Politeknik Negeri Batam (2024 - Sekarang)<br>
             <i>Project: Aplikasi Web Eco Enzyme</i>
         </li>
+        <br>
         <li><b>Full Stack Developer</b> - Sistem Informasi Pelaporan (2023 - 2024)<br>
             <i>Project: Pengajuan Lahan Pelatihan BLK (SPPLK)</i>
         </li>
+        <br>
         <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (2022 - 2024)<br>
             <i>Project: Uji Kompetensi Keahlian Rekayasa Perangkat Lunak</i>
         </li>
+          <br>
         <li><b>Software Engineer Intern</b> - Website Manajemen Baznas (2023)<br>
             <i>Project: Backend Web Development</i>
         </li>
+          <br>
         <li><b>Software Engineer Intern</b> - Website Browser BP Batam (2023)<br>
             <i>Project: Website Management</i>
         </li>
+          <br>
         <li><b>Software Engineer Intern</b> - Sistem Informasi Kajian (2022 - 2023)<br>
             <i>Project: Website Kajian Islam Batam</i>
         </li>
+          <br>
     </ul>
 </div>
 
