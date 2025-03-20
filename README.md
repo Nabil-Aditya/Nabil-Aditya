@@ -1,51 +1,52 @@
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Aditya!;" />
-</h1>
-
-<h3 align="center">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for Software Engineering. Actively exploring software development technologies and constantly seeking opportunities to expand my programming knowledge.</h3>
-
-<br/>
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,mysql,azure,windows" alt="Skill Icons" />
-<br>
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Branding - Nabil Aditya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 align="center">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Aditya!;" />
+        </h1>
+        <h3 align="center">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for Software Engineering. Actively exploring software development technologies and constantly seeking opportunities to expand my programming knowledge.</h3>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Name: Nabil Aditya</p>
+        <p>Email: <a href="mailto:nabiladitya2203@gmail.com">nabiladitya2203@gmail.com</a></p>
+    </section>
+    
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>Politeknik Negeri Batam - Cyber Security (Current)</li>
+            <li>High School - SMU (Graduation Year: XXXX)</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>PBL Project - First Semester</li>
+            <li>Aplikasi Web Eco Enzim</li>
+            <li>SIPELITA - Sistem Informasi Kelompok Terbang Haji</li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <h3>Technical Skills</h3>
+        <p>Node.js, React, Firebase, Docker, Supabase, AWS</p>
+        <h3>Soft Skills</h3>
+        <p>Communication, Leadership, Problem-Solving</p>
+    </section>
+    
+    <footer>
+    <hr/>
 
 <br/>
 
@@ -60,5 +61,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
-<br/>
+    </footer>
+</body>
+</html>
