@@ -36,7 +36,7 @@
 <h2 align="center">💼 Work Experience 💼</h2>
 <br/>
 <div align="center">
-    <ul align="left">
+    <ul align="center">
         <li><b>Software Development Team Lead</b> - Politeknik Negeri Batam (2024 - Sekarang)<br>
             <i>Project: Aplikasi Web Eco Enzyme</i>
         </li>
