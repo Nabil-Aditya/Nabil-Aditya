@@ -25,11 +25,11 @@
 <br/>
 <div align="center">
     <ul align="left">
-        <li><b>Software Development Team Lead</b> - Politeknik Negeri Batam (Feb 2024 - Sekarang)<br>
-            <i>Project Aplikasi Berbasis Website Eco Enzyme</i>
+        <li><b>Software Development Team Lead</b> - PBL - Politeknik Negeri Batam (Feb 2024 - Sekarang)<br>
+            <i>Project Aplikasi Berbasis Website Eco Enzyme (Ecozyne)</i>
         </li>
         <br>
-        <li><b>Full Stack Developer</b> - Sistem Informasi Pelaporan (Aug 2024 - Jan 2025)<br>
+        <li><b>Software Development Team Lead</b> - PBL - Politeknik Negeri Batam (Aug 2024 - Jan 2025)<br>
             <i>Project Aplikasi Berbasis Website Pengajuan Pelatihan & LPJ (SIPELITA)</i>
         </li>
               <br>
@@ -42,7 +42,7 @@
         </li>
           <br>
         <li><b>Software Engineer Intern</b> - BP Batam (Aug 2023 -  Dec 2023)<br>
-            <i>Project Aplikasi Berbasis Website Pengaduan Masyarakat, Whistle Blower BP Batam</i>
+            <i>Project Aplikasi Berbasis Website Pengaduan Masyarakat, (Whistle Blower BP Batam)</i>
         </li>
           <br>
         <li><b>Software Engineer Intern</b> - Kementerian Agama Kota Batam (Jul 2023 -  Dec 2023)<br>
