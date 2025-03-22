@@ -83,13 +83,22 @@
 <br/>
 <div align="center">
     <ul align="left">
-        <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (Aug 2024 - Now)<br>
-            <i>Informatics Engineering</i>
+        <li><b>Certified Ethical Hacker</b> - Cisco Academy (Aug 2024 - Now)<br>
         </li>
         <br>
-            <li><b>Software Engineering Student</b> - SMK Negeri Batam (Jun 2020 - May 2024)<br>
-            <i>Informatics Engineering</i>
+            <li><b>Certified Junior Web Development</b> - Badan Nasional Sertifikasi Profesi (BNSP) (Nov 2024)<br>
         </li>
+            <br>
+            <li><b>Certified Training Junior Web Development</b> - Kominfo (Jul 2024)<br>
+        </li>
+            <br>
+            <li><b>Certified Asean Data Science</b> - Asean Foundation (Aug 2024)<br>
+        </li>
+           <br>
+            <li><b>Certified Junior Programmer</b> - Badan Nasional Sertifikasi Profesi (BNSP) (Feb 2024)<br>
+        </li>
+            <br>
+            <li><b>Certified Training Cyber Security</b> - Microsoft (Aug 2023)<br>
           <br>
     </ul>
 </div>
