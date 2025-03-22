@@ -65,11 +65,11 @@
 <div align="center">
     <ul align="left">
         <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (Aug 2024 - Now)<br>
-            <i>Informatics Engineering</i>
+            <i>Informatics Engineering - Software Engineering </i>
         </li>
         <br>
             <li><b>Software Engineering Student</b> - SMK Negeri Batam (Jun 2020 - May 2024)<br>
-            <i>Informatics Engineering</i>
+            <i>Informatics Engineering - Software Engineering</i>
         </li>
           <br>
     </ul>
@@ -83,7 +83,7 @@
 <br/>
 <div align="center">
     <ul align="left">
-        <li><b>Certified Ethical Hacker</b> - Cisco Academy (Aug 2024 - Now)<br>
+        <li><b>Certified Ethical Hacker</b> - Cisco Academy (Aug 2024)<br>
         </li>
         <br>
             <li><b>Certified Junior Web Development</b> - Badan Nasional Sertifikasi Profesi (BNSP) (Nov 2024)<br>
@@ -118,8 +118,8 @@
   <a href="https://www.linkedin.com/in/-nabiladityaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://nabil-aditya.github.io/Personal-branding/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.instagram.com/nabiladtya" target="_blank">
+     <img src="https://img.shields.io/badge/instagram-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
