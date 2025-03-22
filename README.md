@@ -10,7 +10,7 @@
 
  <hr/>
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git" />
@@ -60,7 +60,7 @@
 <h2 align="center">🎓 Education 🎓</h2>
 <br/>
 <div align="center">
-    <ul align="center">
+    <ul align="left">
         <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (Aug 2024 - Now)<br>
             <i>Informatics Engineering</i>
         </li>
