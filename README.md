@@ -6,9 +6,7 @@
 
 <br/>
 <br/>
-
-
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -19,6 +17,7 @@
 <br>
 </div>
 
+<br/>
 <br/>
 <hr/>
  
@@ -57,6 +56,10 @@
     </ul>
 </div>
 
+<br/>
+<br/>
+<hr/>
+
 <h2 align="center">🎓 Education 🎓</h2>
 <br/>
 <div align="center">
@@ -72,10 +75,14 @@
     </ul>
 </div>
 
+<br/>
+<br/>
+<hr/>
+
 <h2 align="center">🏆 Certification 🏆</h2>
 <br/>
 <div align="center">
-    <ul align="center">
+    <ul align="left">
         <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (Aug 2024 - Now)<br>
             <i>Informatics Engineering</i>
         </li>
