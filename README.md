@@ -7,18 +7,7 @@
 <br/>
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -37,32 +26,67 @@
 <br/>
 <div align="center">
     <ul align="center">
-        <li><b>Software Development Team Lead</b> - Politeknik Negeri Batam (2024 - Sekarang)<br>
-            <i>Project: Aplikasi Web Eco Enzyme</i>
+        <li><b>Software Development Team Lead</b> - Politeknik Negeri Batam (Feb 2024 - Sekarang)<br>
+            <i>Project Aplikasi Berbasis Website Eco Enzyme</i>
         </li>
         <br>
-        <li><b>Full Stack Developer</b> - Sistem Informasi Pelaporan (2023 - 2024)<br>
-            <i>Project: Pengajuan Lahan Pelatihan BLK (SPPLK)</i>
+        <li><b>Full Stack Developer</b> - Sistem Informasi Pelaporan (Aug 2024 - Jan 2025)<br>
+            <i>Project Aplikasi Berbasis Website Pengajuan Pelatihan & LPJ (SIPELITA)</i>
         </li>
-        <br>
-        <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (2022 - 2024)<br>
-            <i>Project: Uji Kompetensi Keahlian Rekayasa Perangkat Lunak</i>
-        </li>
-          <br>
-        <li><b>Software Engineer Intern</b> - Website Manajemen Baznas (2023)<br>
-            <i>Project: Backend Web Development</i>
+              <br>
+        <li><b>Software Engineer Intern</b> - PT. Oil Synergy Indonesia (Nov 2023 - Dec 2023)<br>
+            <i>Project Aplikasi Berbasis Website Peminjaman Ruangan</i>
         </li>
           <br>
-        <li><b>Software Engineer Intern</b> - Website Browser BP Batam (2023)<br>
-            <i>Project: Website Management</i>
+        <li><b>Software Engineer Intern</b> - PT. UT Quality (Oct 2023 - Dec 2023)<br>
+            <i>Project Aplikasi Berbasis Website Manajemen Barang</i>
         </li>
           <br>
-        <li><b>Software Engineer Intern</b> - Sistem Informasi Kajian (2022 - 2023)<br>
-            <i>Project: Website Kajian Islam Batam</i>
+        <li><b>Software Engineer Intern</b> - BP Batam (Aug 2023 -  Dec 2023)<br>
+            <i>Project Aplikasi Berbasis Website Pengaduan Masyarakat, Whistle Blower BP Batam</i>
+        </li>
+          <br>
+        <li><b>Software Engineer Intern</b> - Sistem Informasi Kajian (Jul 2023 -  Dec 2023)<br>
+            <i>Project Aplikasi Berbasis Website Satu Data, (Satu Jari Kementerian Agama Kota Batam)</i>
+        </li>
+              <br>
+        <li><b>Software Engineer Intern</b> - LearningX Academy (Apr 2023 - Jul 2023)<br>
+            <i>Project Aplikasi Berbasis Website, E-commerce Legacy Skate Board</i>
         </li>
           <br>
     </ul>
 </div>
+
+<h2 align="center">🎓 Education 🎓</h2>
+<br/>
+<div align="center">
+    <ul align="center">
+        <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (Aug 2024 - Now)<br>
+            <i>Informatics Engineering</i>
+        </li>
+        <br>
+            <li><b>Software Engineering Student</b> - SMK Negeri Batam (Jun 2020 - May 2024)<br>
+            <i>Informatics Engineering</i>
+        </li>
+          <br>
+    </ul>
+</div>
+
+<h2 align="center">🏆 Certification 🏆</h2>
+<br/>
+<div align="center">
+    <ul align="center">
+        <li><b>Software Engineering Student</b> - Politeknik Negeri Batam (Aug 2024 - Now)<br>
+            <i>Informatics Engineering</i>
+        </li>
+        <br>
+            <li><b>Software Engineering Student</b> - SMK Negeri Batam (Jun 2020 - May 2024)<br>
+            <i>Informatics Engineering</i>
+        </li>
+          <br>
+    </ul>
+</div>
+
 
 
 <br/><br/>
