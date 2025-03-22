@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Aditya!;" />
 </h1>
 
-<h3 align="left">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for Software Engineering. Actively exploring software development technologies and constantly seeking opportunities to expand my programming knowledge.</h3>
+<h3 align="left">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for Software Engineering and Cybersecurity. I actively explore software development technologies while continuously seeking opportunities to expand my programming and security knowledge.</h3>
 
 <br/>
 <br/>
