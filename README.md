@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Aditya!;" />
 </h1>
 
-<h3 align="center">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for Software Engineering. Actively exploring software development technologies and constantly seeking opportunities to expand my programming knowledge.</h3>
+<h3 align="left">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for Software Engineering. Actively exploring software development technologies and constantly seeking opportunities to expand my programming knowledge.</h3>
 
 <br/>
 <br/>
@@ -10,7 +10,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git" />
@@ -25,7 +25,7 @@
 <h2 align="center">💼 Work Experience 💼</h2>
 <br/>
 <div align="center">
-    <ul align="center">
+    <ul align="left">
         <li><b>Software Development Team Lead</b> - Politeknik Negeri Batam (Feb 2024 - Sekarang)<br>
             <i>Project Aplikasi Berbasis Website Eco Enzyme</i>
         </li>
