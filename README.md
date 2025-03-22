@@ -68,7 +68,7 @@
             <i>Informatics Engineering - Software Engineering </i>
         </li>
         <br>
-            <li><b>Software Engineering Student</b> - SMK Negeri Batam (Jun 2020 - May 2024)<br>
+            <li><b>Software Engineering Student</b> - SMK Negeri 7 Batam (Jun 2020 - May 2024)<br>
             <i>Informatics Engineering - Software Engineering</i>
         </li>
           <br>
