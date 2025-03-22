@@ -45,7 +45,7 @@
             <i>Project Aplikasi Berbasis Website Pengaduan Masyarakat, Whistle Blower BP Batam</i>
         </li>
           <br>
-        <li><b>Software Engineer Intern</b> - Sistem Informasi Kajian (Jul 2023 -  Dec 2023)<br>
+        <li><b>Software Engineer Intern</b> - Kementerian Agama Kota Batam (Jul 2023 -  Dec 2023)<br>
             <i>Project Aplikasi Berbasis Website Satu Data, (Satu Jari Kementerian Agama Kota Batam)</i>
         </li>
               <br>
