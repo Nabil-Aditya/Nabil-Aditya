@@ -25,7 +25,11 @@
 <br/>
 <div align="center">
     <ul align="left">
-        <li><b>Software Development Team Lead</b> - PBL - Politeknik Negeri Batam (Feb 2024 - Sekarang)<br>
+         <li><b>Software Development Team Lead</b> - PBL - Politeknik Negeri Batam (Aug 2024 - Now)<br>
+            <i>Project Aplikasi Mobile Eco Enzyme (Ecozyne) dengan integrasi AI</i>
+        </li>
+        <br>
+        <li><b>Software Development Team Lead</b> - PBL - Politeknik Negeri Batam (Feb 2025 - Jul 2025 )<br>
             <i>Project Aplikasi Berbasis Website Eco Enzyme (Ecozyne)</i>
         </li>
         <br>
