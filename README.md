@@ -13,9 +13,22 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git,stackoverflow,nginx,sqlite,mysql" alt="Skill Icons"/>
-                <br>
-       <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,dart,flutter,azure,windows" alt="Skill Icons" />
+ <p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git,stackoverflow,nginx,sqlite,mysql" alt="General tech icons" />
+</p>
+
+<!-- Baris 2: Languages / Frameworks -->
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,dart,flutter,azure,windows" alt="Languages and frameworks" />
+</p>
+
+<!-- Baris 3: ML / AI (TensorFlow, Streamlit, Colab, YOLO/Ultralytics) -->
+<p>
+  <!-- skillicons punya tensorflow & streamlit & colab; YOLO/Ultralytics mungkin tidak tersedia, jadi fallback image dipakai -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,streamlit,colab" alt="TensorFlow, Streamlit, Colab" />
+  <!-- Fallback YOLO/Ultralytics (hosted image) -->
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/ultralytics.png" alt="Ultralytics (YOLO)" style="height:28px; vertical-align:middle; margin-left:8px;" />
+</p>
 <br>
 </div>
 
