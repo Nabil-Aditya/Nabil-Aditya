@@ -15,7 +15,7 @@
 <div align="center">
        <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git,stackoverflow,nginx,sqlite,mysql" alt="Skill Icons"/>
                 <br>
-       <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,azure,windows" alt="Skill Icons" />
+       <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,dart,flutter,azure,windows" alt="Skill Icons" />
 <br>
 </div>
 
