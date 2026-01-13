@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Aditya!;" />
 </h1>
 
-<h3 align="left">Hello! I am a dedicated student at Batam Polytechnic with a deep passion for Software Engineering and Cybersecurity. I actively explore software development technologies while continuously seeking opportunities to expand my programming and security knowledge.</h3>
+<h3 align="left">Hello! I am a student at Batam Polytechnic with a keen interest in Software Engineering and Cybersecurity. I actively explore software development technologies while continuously seeking opportunities to enhance my programming and security skills.</h3>
 
 <br/>
 <br/>
@@ -12,7 +12,9 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git,stackoverflow,nginx,sqlite,mysql" alt="Skill Icons"/> <br> <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,dart,flutter,azure,windows" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git,nginx,sqlite,mysql" alt="Skill Icons" />
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,dart,flutter,azure,windows" alt="Skill Icons" />
 <br>
 </div>
 
