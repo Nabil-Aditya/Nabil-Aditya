@@ -16,7 +16,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,git,github,docker,nginx,vscode,androidstudio,postman,npm,figma,notion,linux" alt="Skill Icons" />
 <br>
-<img src="https://skillicons.dev/icons?i=windows,azure" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=windows,azure,ubuntu" alt="Skill Icons" />
 </div>
 <br/>
 <hr/>
