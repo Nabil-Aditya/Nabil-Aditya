@@ -12,9 +12,9 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,git,docker,nginx,sqlite,mysql" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,cpp,dart,nodejs,laravel,flutter,flask,jquery,bootstrap" alt="Skill Icons" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,php,laravel,flask,jquery,dart,flutter,azure,windows" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,git,github,docker,nginx,vscode,androidstudio,postman,npm,figma,notion,linux,windows,azure" alt="Skill Icons" />
 <br>
 </div>
 <br/>
